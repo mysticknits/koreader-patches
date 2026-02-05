@@ -18,8 +18,8 @@ Tweaked from: [SeriousHornet](https://github.com/SeriousHornet/KOReader.patches)
 Requires `2-pt-titlebar.lua`. The favorites button in the title menu takes users to their collections instead of favorites.
 
 ## 2-percent-badge.lua
-Displays a percent badge on the cover of a book  
-Source: [SeriousHornet](https://github.com/SeriousHornet/KOReader.patches)
+Displays a percent chip on the cover of a book  
+Tweaked from: [SeriousHornet](https://github.com/SeriousHornet/KOReader.patches)
 
 ## 2-pt-mm-noborders.lua
 Removes the top and bottom separators from the Project Title menu items  
